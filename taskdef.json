@@ -20,5 +20,5 @@
                                                                                                                                 "networkMode": "bridge",
                                                                                                                                 "cpu": "256",
                                                                                                                                     "memory": "512",
-                                                                                                                                    "family": "ecs-qf-prod"
+                                                                                                                                    "family": "ecs-pre-prod-tf"
 }
